@@ -11,7 +11,14 @@ Data-driven professional with a strong interest in transforming data into action
 ## 🚀 Skills
 
 `SQL` `Power BI` `Excel` `DAX` `Power Query` `Data Analysis` `Data Visualization` `Dashboard Development` `Business Intelligence` `KPI Reporting` `Data Cleaning` `Data Modeling`
+## 📈 Quick Highlights
 
+- 1.4M+ E-commerce Events Analyzed
+- 99K+ Orders Analyzed
+- 68.9% Cart Abandonment Identified
+- 2 End-to-End Power BI Projects
+- SQL • Power BI • DAX • Excel
+- 
 **Tools:** Power BI · MySQL · Excel · DAX · Power Query · GitHub
 
 ---
